@@ -1,0 +1,27 @@
+.content-box {
+  margin-left: 2vh;
+  margin-right: 2vh;
+  margin-top: 3vh;
+  margin-bottom: 3vh;
+  padding-left: 1.5vh;
+  padding-right: 1.5vh;
+  padding-top: 2vh;
+  padding-right: 2vh;
+  border-radius: 2vh;
+  padding-bottom: 1.2vh;
+  border-style: groove;
+  border-width: 1px;
+}
+
+.image-display {
+  width: 90%;
+  margin-top: 6%;
+  border-radius: 10vh;
+  opacity: 92%;
+  margin-bottom: 1.3vh;
+  border-radius: 12%;
+}
+
+ul {
+  padding-left: 0.1rem;
+}
